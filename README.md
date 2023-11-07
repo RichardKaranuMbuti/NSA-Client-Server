@@ -63,4 +63,4 @@ The server response time is the duration from when the client sends a request un
 
 After setting up the application, tracing the packets, and configuring the firewall, you should have a better understanding of how a basic client-server system operates on a network.
 
-By following this guide, created by Teresiah Njeri and Richard Karanu, you will have taken your first steps into network programming with Python on Ubuntu.
+By following this guide, you will have taken your first steps into network programming with Python on Ubuntu.
