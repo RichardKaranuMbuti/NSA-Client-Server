@@ -132,9 +132,16 @@ You will see output similar to the one below
 
 ## Measuring Server Response Time
 
-The server response time is the duration from when the client sends a request until it receives a response. The client script should be modified to measure and output this time, providing insights into the performance of the server.
+The server response time is the duration from when the client sends a request until it receives a response.
 
+![Server Waiting for Connection](responsetime.png)
+
+*Screenshot: Server response time for two consecutive requests*
+
+The server took 0.0007 seconds to respond to the first request and 0.0012 seconds to respond to the second request
 
 
 By following this guide-All the steps , you have implmented a simple client/server application with Python on Ubuntu.
+
+
 
